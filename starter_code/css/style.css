@@ -148,7 +148,7 @@ height: 50%;
 
 blockquote {font-weight: 300;
             font-style: italic;
-            font-size: 18px;
+            font-size: 1rem;
             text-align: center;
             color: #606161;
             /*margin: 0 0 0 270px;*/
